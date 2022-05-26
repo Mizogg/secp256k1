@@ -1,4 +1,4 @@
-Made by Mizogg Look for Bitcoin Using iceland2k14 secp256k1 https://github.com/iceland2k14/secp256k1  fastest Python Libary
+Made by Mizogg Look for Bitcoin Using iceland2k14 secp256k1 https://github.com/iceland2k14/secp256k1  fastest Python Libary. ICEH160 Updated new make.py. Converts bitcoin text database to ripemd160 text (rmd.txt) file and then converts to a prepare bin file(btc_sorted.bin). This file can be used with iceh160.py as your database while hunting for bitcoin. The bin file requires less memory quicker loading and less false positive results.
 
 Good Luck and Happy Hunting Bitcoin_sequence.py Version 1 and HASH160_sequence.py Version 2 Range division by 1%-1000000% and scan sequentially
 
